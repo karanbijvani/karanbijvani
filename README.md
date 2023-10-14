@@ -4,7 +4,6 @@
 
 👨‍💻 I'm a Laravel Developer with a passion for creating efficient and innovative web applications.
 
-🌱 Currently learning and exploring new technologies to enhance my skills and knowledge.
 
 ## Get in Touch
 
