@@ -8,8 +8,7 @@
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bijvanikaran/)
-- Email: karanbijvani@gmail.com
-
+- [LinkedIn](https://www.linkedin.com/in/bijvanikaran/)
+- [Email](karanbijvani@gmail.com)
 
 Thanks for stopping by! 😊
